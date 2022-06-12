@@ -1,15 +1,3 @@
-bcryptjs:
-
-body-parser:
-
-cors:
-
-dotenv:
-
-ejs:
-
-express:
-
-jsonwebtoken:
-
-mongoose:
+deployed in heroku
+link:
+https://ecom-shoppy-vysh.herokuapp.com/home
